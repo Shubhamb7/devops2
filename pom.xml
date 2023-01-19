@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.spring</groupId>
 	<artifactId>testapp</artifactId>
-	<version>${TMPVER}-SNAPSHOT</version>
+	<version>${env.RNUM}.${env.SNUM}-SNAPSHOT</version>
 	<name>testapp</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
