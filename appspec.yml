@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /
+    destination: /home/ec2-user/server
 
 permissions:
   - object: /
