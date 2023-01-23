@@ -8,7 +8,7 @@ public class TempController {
 
     @GetMapping("/")
     public String getHome(){
-        return "dev env website -";
+        return "dev env website - dev";
     }
     
 }
