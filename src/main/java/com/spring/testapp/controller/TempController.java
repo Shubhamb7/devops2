@@ -8,7 +8,7 @@ public class TempController {
 
     @GetMapping("/")
     public String getHome(){
-        return "Maheshmati ki jaiiiii upgraded version 1.7";
+        return "dev version 1";
     }
     
 }
