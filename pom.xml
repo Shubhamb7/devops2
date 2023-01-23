@@ -11,7 +11,7 @@
 
 	<groupId>com.spring</groupId>
 	<artifactId>testapp</artifactId>
-	<version>1.5-SNAPSHOT</version>
+	<version>1.6-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>testapp</name>
 	<description>Demo project for Spring Boot</description>
