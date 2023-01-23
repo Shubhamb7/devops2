@@ -11,7 +11,7 @@
 
 	<groupId>com.spring</groupId>
 	<artifactId>testapp</artifactId>
-	<version>1.7-SNAPSHOT</version>
+	<version>${env.POM_VER}-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>testapp</name>
 	<description>Demo project for Spring Boot</description>
