@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class TempController {
 
-    @GetMapping("/")
+    @Getapping("/")
     public String getHome(){
         return "aws devops is the best";
     }
