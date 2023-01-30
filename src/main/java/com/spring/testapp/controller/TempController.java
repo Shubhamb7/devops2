@@ -8,11 +8,7 @@ public class TempController {
 
     @GetMapping("/")
     public String getHome(){
-<<<<<<< HEAD
-        return "aws devops is the best V2";
-=======
-        return "dev website - updatedV4";
->>>>>>> dev
+       return "dev website - updatedV4";
     }
     
 }
