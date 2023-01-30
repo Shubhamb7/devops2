@@ -8,7 +8,7 @@ public class TempController {
 
     @GetMapping("/")
     public String getHome(){
-        return "aws devops is the best";
+        return "aws devops is the best V2";
     }
     
 }
