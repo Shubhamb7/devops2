@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 continuationTokens=()
 versionList=()
 element=0
